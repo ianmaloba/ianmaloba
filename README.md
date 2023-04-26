@@ -17,11 +17,13 @@
 
 <div class="currentStudies">
   <h3>🌱 I’m currently learning;</h3>
+  .........
 </div>
 
 
 <div class="collaboratie-work">
   <h3>💞️ I’m looking to collaborate on;</h3>
+  .........
 </div>
 
 
