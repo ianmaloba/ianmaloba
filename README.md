@@ -38,7 +38,7 @@
  <br>
  <br>
  <br>
-  <p><em>Thanks for taking your time to read about me :) I APPRECIATE IT... 🙏</em></p>
+  <p><em>Thanks for your time to read.. :) 🙏</em></p>
 <br>
 <br>
 <br> 
@@ -47,7 +47,7 @@
     <a href="https://codepen.io/ianmalobamwakha/pens/public" target="_blank"><button><em>Follow me on codepen.io</em></button></a>
 <br>
 <br>
-<em><b> By Ian Maloba © All rights reserved 2023.®</b> With love from Nairobi, Kenya.</em>
+<em><b>Ian Maloba © All rights reserved 2023.®</b> With love from Nairobi, Kenya.</em>
 <br>  
 
 </html>
