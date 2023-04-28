@@ -1,9 +1,9 @@
 <html>
   <h1>👋 Hola Amigos!</h1>
+  <hr>
 <p>
   I am <b>Ian Maloba Mwakha</b> a young ambitious male coding ethusiast born on January 4th 2003 in Nairobi, Kenya. I am a highly motivated individual with a strong passion for programming, with a keen eye for detail and always looking for ways to optimize, improve my code and learn more.
 </p>
-<hr>
 <div class="interests">
   <h3><u>👀 I’m interested in;</u></h3>
   <ul>
@@ -13,19 +13,16 @@
     <li>Software Engineering</li>
   </ul>
 </div>
-<hr>
 
 <div class="currentStudies">
   <h3><u>🌱 I’m currently learning;</u></h3>
   .........
 </div>
-<hr>
 
 <div class="collaboratie-work">
   <h3><u>💞️ I’m looking to collaborate on;</u></h3>
   <p> I am looking forward to work jointly on projects <em>especially</em> related to <b>python</b><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png?20220821155029" width=20px/> and <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" width=50px/> </p> 
 </div>
-<hr>
 
 <div class="contact">
   <h3><u>📫 How to reach me;</u></h3>
@@ -38,7 +35,6 @@
       </a>
   </p> 
 </div>
- <hr>
  <br>
  <br>
  <br>
