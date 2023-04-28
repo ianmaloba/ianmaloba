@@ -39,9 +39,9 @@
       </a>
   </p> 
 </div>
-  
-   <br>
-   <p><em>Thanks for taking your time to read about me :) I APPRECIATE IT... 🙏</em></p>
+ <br>
+ <br>
+  <p><em>Thanks for taking your time to read about me :) I APPRECIATE IT... 🙏</em></p>
 
        
 <br>
