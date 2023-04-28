@@ -5,7 +5,7 @@
 </p>
 
 <div class="interests">
-  <h3>👀 I’m interested in;</h3>
+  <h3><u>👀 I’m interested in;</u></h3>
   <ul>
     <li>Full Stack development</li>
     <li>Software Development</li>
@@ -16,20 +16,20 @@
 
 
 <div class="currentStudies">
-  <h3>🌱 I’m currently learning;</h3>
+  <h3><u>🌱 I’m currently learning;</u></h3>
   .........
 </div>
 
 
 <div class="collaboratie-work">
-  <h3>💞️ I’m looking to collaborate on;</h3>
-  <p> I am looking forward to work jointly on projects especially related to <b>python</b><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png?20220821155029" width=20px/> and <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" width=50px/> </p>
+  <h3><u>💞️ I’m looking to collaborate on;</u></h3>
+  <p> I am looking forward to work jointly on projects <em>especially</em> related to <b>python</b><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png?20220821155029" width=20px/> and <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" width=50px/> </p>
   
 </div>
 
 
 <div class="contact">
-  <h3>📫 How to reach me;</h3>
+  <h3><u>📫 How to reach me;</u></h3>
   <p>
       <b><a href="https://www.linkedin.com/in/ianmalobamwakha/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png" width=32px/></a>
     <a href="ianmalobamwakha@gmail.com" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThMp_w31QIxPkclKoeQk_LwqWqYLBVKX2cnAybUvi0gQ&s" width=35px/>
