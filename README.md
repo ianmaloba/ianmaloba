@@ -23,7 +23,7 @@
 
 <div class="collaboratie-work">
   <h3>💞️ I’m looking to collaborate on;</h3>
-  <p> I am looking forward to work jointly on projects especially related to <img src="https://www.python.org/static/community_logos/python-logo.png" width=70px/> and <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" width=70px/>
+  <p> I am looking forward to work jointly on projects especially related to <img src="https://www.python.org/static/community_logos/python-logo.png" width=50px/> and <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" width=50px/>
   
 </div>
 
