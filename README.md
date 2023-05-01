@@ -16,7 +16,7 @@
 
 <div class="currentStudies">
   <h3><u>🌱 I’m currently learning;</u></h3>
-  .........
+  <p>MERN Stack | Django</p>
 </div>
 
 <div class="collaboratie-work">
