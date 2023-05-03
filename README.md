@@ -38,7 +38,7 @@
  <br>
  <br>
  <br>
-  <p><em>Thanks for your time to read.. :) 🙏</em></p>
+ <em>Thanks for your time to read.. :) 🙏</em>
 <br>
 <br>
 <br> 
