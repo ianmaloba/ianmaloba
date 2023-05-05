@@ -2,7 +2,7 @@
   <h1>👋 Hola Amigos!</h1>
   <hr>
 <p>
-  I am <b>Ian Maloba Mwakha</b> a young ambitious male coding ethusiast born on January 4th 2003 in Nairobi, Kenya. I am a highly motivated individual with a strong passion for programming, with a keen eye for detail and always looking for ways to optimize, improve my code and learn more.
+  I am <b>Ian Maloba Mwakha</b> an ambitious coding ethusiast living in Nairobi, Kenya. I am a highly motivated individual with a strong passion for programming, with a keen eye for detail and always looking for ways to optimize, improve my code and learn more.
 </p>
 <div class="interests">
   <h3><u>👀 I’m interested in;</u></h3>
