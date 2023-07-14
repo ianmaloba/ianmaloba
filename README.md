@@ -1,5 +1,5 @@
 <html>
-  <h1>Hello I'm Ian Maloba 👋</h1>
+  <h1>Hello👋, I'm Ian Maloba</h1>
   <hr>
 <p>
   I am <b>Ian Maloba Mwakha</b> an ambitious coding ethusiast living in Nairobi, Kenya. I am a highly motivated individual with a strong passion for programming, with a keen eye for detail and always looking for ways to optimize, improve my code and learn more.
