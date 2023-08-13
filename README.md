@@ -7,16 +7,14 @@
 <div class="interests">
   <h3><u>👀 I’m interested in;</u></h3>
   <ul>
-    <li>Full Stack development</li>
-    <li>Software Development</li>
     <li>Web development</li>
-    <li>Software Engineering</li>
+    <li>Software Development</li>
   </ul>
 </div>
 
 <div class="currentStudies">
-  <h3><u>🌱 I’m currently learning;</u></h3>
-  <p>Django</p>
+  <h3><u>🌱 I’m currently;</u></h3>
+  <p>Taking a Computer Science Degree</p>
 </div>
 
 <div class="collaboratie-work">
@@ -38,7 +36,6 @@
  <br>
  <br>
  <br>
- <em>Thanks for your time to read.. :) 🙏</em>
 <br>
 <br>
 <br> 
@@ -47,7 +44,7 @@
     <a href="https://codepen.io/ianmalobamwakha/pens/public" target="_blank"><button><em>Follow me on codepen.io</em></button></a>
 <br>
 <br>
-<em><b>Ian Maloba © All rights reserved 2023.®</b> With love from Nairobi, Kenya.</em>
+<em><b>Ian Maloba © All rights reserved 2023.®</b></em>
 <br>  
 
 </html>
