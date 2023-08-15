@@ -5,7 +5,7 @@
   I am an ambitious developer living in Nairobi, Kenya. I am a highly motivated individual with a passion for programming, a keen eye for detail and always looking for ways to optimize, improve my code and learn more.
 </p>
 <div class="interests">
-  <h3><u>👀 I’m interested in;</u></h3>
+  <h3><u>👀 I’m interested in:</u></h3>
   <ul>
     <li>Web development</li>
     <li>Software Development</li>
