@@ -23,7 +23,7 @@
 </div>
 
 <div class="contact">
-  <h3><u>📫 How to reach me;</u></h3>
+  <h3><u>📫 How to Contact me;</u></h3>
   <p>
       <b><a href="https://www.linkedin.com/in/ianmalobamwakha/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png" width=32px/></a>
     <a href="ianmalobamwakha@gmail.com" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThMp_w31QIxPkclKoeQk_LwqWqYLBVKX2cnAybUvi0gQ&s" width=35px/>
