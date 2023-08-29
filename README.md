@@ -1,4 +1,7 @@
 <html>
+  <head>
+    <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+  </head>
   <h1>Hello👋, I'm Ian Maloba</h1>
   <hr>
 <p>
@@ -10,11 +13,6 @@
     <li>Web development</li>
     <li>Software Development</li>
   </ul>
-</div>
-
-<div class="currentStudies">
-  <h3><u>🌱 I’m currently;</u></h3>
-  <p>Taking a Computer Science Degree</p>
 </div>
 
 <div class="collaboratie-work">
