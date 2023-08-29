@@ -16,6 +16,5 @@ I am looking forward to working jointly on projects, especially those related to
 - [CodePen](https://codepen.io/ianmalobamwakha/pens/public)
 - [WhatsApp](https://wa.link/9swn5e)
 
-[Follow me on codepen.io](https://codepen.io/ianmalobamwakha/pens/public)
   
-*Ian Maloba © All rights reserved 2023.®*
+*Ian Maloba © All rights reserved 2023.*
