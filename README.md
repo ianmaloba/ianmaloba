@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+  <title>Ian Maloba - Developer</title>
 </head>
 <body>
   <h1>Hello👋, I'm Ian Maloba</h1>
@@ -19,26 +19,26 @@
   
   <div class="collaborative-work">
     <h3><u>💞️ I’m looking to collaborate on:</u></h3>
-    <p>I am looking forward to working jointly on projects, especially those related to <b>Python</b><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" alt="Python logo" width="20px"/> and <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Django logo" width="50px"/>.</p>
+    <p>I am looking forward to working jointly on projects, especially those related to <b>Python</b> 🐍 and <b>Django</b> 🌐.</p>
   </div>
   
   <div class="contact">
     <h3><u>📫 How to Contact me:</u></h3>
     <div class="d-flex justify-content-center mt-3">
       <div class="mx-2">
-        <a href="https://www.linkedin.com/in/ianmalobamwakha" target="_blank"><iconify-icon icon="devicon:linkedin" style="color: white; font-size: 23px;"></iconify-icon></a>
+        <a href="https://www.linkedin.com/in/ianmalobamwakha" target="_blank">LinkedIn</a>
       </div>
       <div class="mx-2">
-        <a href="https://github.com/IanMalobaMwakha" target="_blank"><iconify-icon icon="bytesize:github" style="color: white; font-size: 23px;"></iconify-icon></a>
+        <a href="https://github.com/IanMalobaMwakha" target="_blank">GitHub</a>
       </div>
       <div class="mx-2">
-        <a href="https://twitter.com/IanMwakha" target="_blank"><iconify-icon icon="logos:twitter" style="color: white; font-size: 23px;"></iconify-icon></a>
+        <a href="https://twitter.com/IanMwakha" target="_blank">Twitter</a>
       </div>
       <div class="mx-2">
-        <a href="https://codepen.io/ianmalobamwakha/pens/public" target="_blank"><iconify-icon icon="ant-design:codepen-circle-filled" style="color: white; font-size: 23px;"></iconify-icon></a>
+        <a href="https://codepen.io/ianmalobamwakha/pens/public" target="_blank">CodePen</a>
       </div>
       <div class="mx-2">
-        <a href="https://wa.link/9swn5e" target="_blank"><iconify-icon icon="logos:whatsapp-icon" style="color: white; font-size: 23px;"></iconify-icon></a>
+        <a href="https://wa.link/9swn5e" target="_blank">WhatsApp</a>
       </div>
     </div>
   </div>
