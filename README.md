@@ -1,5 +1,4 @@
 # Hello👋, I'm Ian Maloba:
----
 I am a software and web developer. I am highly motivated with a keen eye for detail, always striving to optimize my code and learn more.
 
 ### 👀 I’m interested in:
