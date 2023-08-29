@@ -18,13 +18,5 @@ I am looking forward to working jointly on projects and I am open to opportuniti
 - [WhatsApp](https://wa.link/9swn5e)
 
   
-<html>
-<body>
+*Ian Maloba © All rights reserved ![Year](https://img.shields.io/badge/year-2023-blue).*
 
-  <em><b>Ian Maloba © All rights reserved <span id="currentYear"></span>.</b></em>
-
-  <script>
-    document.getElementById('currentYear').textContent = new Date().getFullYear();
-  </script>
-</body>
-</html>
