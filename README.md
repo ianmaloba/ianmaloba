@@ -27,19 +27,19 @@
   <p>
      <div class="d-flex justify-content-center mt-3">
                 <div class="mx-2">
-                  <a href="[{{ contact.linkedln }}](https://www.linkedin.com/in/ianmalobamwakha)" target="_blank"><iconify-icon icon="devicon:linkedin" style="color: white; font-size: 23px;"></iconify-icon></a>
+                  <a href="(https://www.linkedin.com/in/ianmalobamwakha)" target="_blank"><iconify-icon icon="devicon:linkedin" style="color: white; font-size: 23px;"></iconify-icon></a>
                 </div>
                 <div class="mx-2">
-                  <a href="[{{ contact.github }}](https://github.com/IanMalobaMwakha)" target="_blank"><iconify-icon icon="bytesize:github" style="color: white; font-size: 23px;"></iconify-icon></a>
+                  <a href="(https://github.com/IanMalobaMwakha)" target="_blank"><iconify-icon icon="bytesize:github" style="color: white; font-size: 23px;"></iconify-icon></a>
                 </div>
                 <div class="mx-2">
-                  <a href="[{{ contact.twitter }}](https://twitter.com/IanMwakha)" target="_blank"><iconify-icon icon="logos:twitter" style="color: white; font-size: 23px;"></iconify-icon></a>
+                  <a href="(https://twitter.com/IanMwakha)" target="_blank"><iconify-icon icon="logos:twitter" style="color: white; font-size: 23px;"></iconify-icon></a>
                 </div>
                 <div class="mx-2">
-                  <a href="[{{ contact.codepen }}](https://codepen.io/ianmalobamwakha/pens/public)" target="_blank"><iconify-icon icon="ant-design:codepen-circle-filled" style="color: white; font-size: 23px;"></iconify-icon></a>
+                  <a href="(https://codepen.io/ianmalobamwakha/pens/public)" target="_blank"><iconify-icon icon="ant-design:codepen-circle-filled" style="color: white; font-size: 23px;"></iconify-icon></a>
                 </div>
                 <div class="mx-2">
-                  <a href="[{{ contact.whatsapp }}](https://wa.link/9swn5e)" target="_blank"><iconify-icon icon="logos:whatsapp-icon" style="color: white; font-size: 23px;"></iconify-icon></a>
+                  <a href="(https://wa.link/9swn5e)" target="_blank"><iconify-icon icon="logos:whatsapp-icon" style="color: white; font-size: 23px;"></iconify-icon></a>
                 </div>
   </p> 
 </div>
