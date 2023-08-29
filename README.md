@@ -18,4 +18,13 @@ I am looking forward to working jointly on projects and I am open to opportuniti
 - [WhatsApp](https://wa.link/9swn5e)
 
   
-*Ian Maloba © All rights reserved {{ 'now' | date: "%Y" }}.®*
+<html>
+<body>
+
+  <em><b>Ian Maloba © All rights reserved <span id="currentYear"></span>.</b></em>
+
+  <script>
+    document.getElementById('currentYear').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
