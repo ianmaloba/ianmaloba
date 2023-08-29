@@ -1,15 +1,15 @@
-# Hello👋, I'm Ian Maloba
+# Hello👋, I'm Ian Maloba:
 ---
 I am an ambitious developer living in Nairobi, Kenya. I am highly motivated with a keen eye for detail, always striving to optimize my code and learn more.
 
-### 👀 I’m interested in
+### 👀 I’m interested in:
 - Web development
 - Software Development
 
 ### 💞️ I’m looking to collaborate on:
 I am looking forward to working jointly on projects and I am open to opportunities.
 
-### 📫 How to Contact me:
+### 📫 Contact me:
 - [LinkedIn](https://www.linkedin.com/in/ianmalobamwakha)
 - [GitHub](https://github.com/IanMalobaMwakha)
 - [Twitter](https://twitter.com/IanMwakha)
