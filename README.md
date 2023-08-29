@@ -7,7 +7,7 @@ I am an ambitious developer living in Nairobi, Kenya. I am highly motivated with
 - Software Development
 
 ### 💞️ I’m looking to collaborate on:
-I am looking forward to working jointly on projects, especially those related to **Python** 🐍 and **Django** 🌐.
+I am looking forward to working jointly on projects and I am open to opportunities.
 
 ### 📫 How to Contact me:
 - [LinkedIn](https://www.linkedin.com/in/ianmalobamwakha)
