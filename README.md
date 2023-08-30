@@ -17,5 +17,5 @@ I am looking forward to working jointly on projects and I am open to opportuniti
 - [WhatsApp](https://wa.link/9swn5e)
 
   
-*Ia Maloba © All rights reserved 2023.*
+*Ian Maloba © All rights reserved 2023.*
 
