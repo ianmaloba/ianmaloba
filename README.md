@@ -1,12 +1,12 @@
-# Hello👋, I'm Ian Maloba:
+# Hello👋, I am Ian Maloba:
 I am a software and web developer. I am highly motivated with a keen eye for detail, always striving to optimize my code and learn more.
 
-### 👀 I'm interested in:
+### 👀 I am interested in:
 - Software Development
 - Web development
 
 
-### 💞️ I’m looking to collaborate on:
+### 💞️ I am looking to collaborate on:
 I am looking forward to working jointly on projects and I am open to opportunities.
 
 ### 📫 Contact me:
