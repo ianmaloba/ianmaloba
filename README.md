@@ -1,5 +1,5 @@
 # Hello👋, I am Ian Maloba:
-I am a software and web developer. I am highly motivated with a keen eye for detail, always striving to optimize my code and learn more.
+I am a software and web developer. I'm highly motivated with a keen eye for detail, always striving to optimize my code and learn more.
 
 ### 👀 I am interested in:
 - Software Development
