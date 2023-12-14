@@ -10,7 +10,7 @@ I am highly motivated with a keen eye for detail, always striving to optimize my
 I am looking forward to working jointly on programming projects and I am open to opportunities.
 
 ### 📫 Contact me:
-- [Portfolio](http://ianmalobamwakha.pythonanywhere.com/)
+- [Portfolio](http://www.ianmaloba.com/)
 - [LinkedIn](https://www.linkedin.com/in/ianmalobamwakha)
 - [Twitter](https://twitter.com/IanMwakha)
 - [CodePen](https://codepen.io/ianmalobamwakha/pens/public)
