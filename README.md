@@ -15,7 +15,6 @@ I am looking forward to working jointly on programming projects and I am open to
 - [Twitter](https://twitter.com/IanMwakha)
 - [CodePen](https://codepen.io/ianmalobamwakha/pens/public)
 - [WhatsApp](https://wa.link/9swn5e)
-- [Facebook](https://www.facebook.com/profile.php?id=61550987347860)
 
   
 *Ian Maloba © All rights reserved 2023.*
