@@ -12,7 +12,7 @@ I am looking forward to working jointly on programming projects and I am open to
 ### 📫 Contact me:
 - [Portfolio](http://www.ianmaloba.com/)
 - [LinkedIn](https://www.linkedin.com/in/ianmalobamwakha/)
-- [Twitter](https://twitter.com/IanMwakha)
+- [Twitter](https://twitter.com/malobaian)
 - [CodePen](https://codepen.io/ianmalobamwakha/pens/public)
 - [WhatsApp](https://wa.link/9swn5e)
 
