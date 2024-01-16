@@ -14,8 +14,6 @@ I am looking forward to working jointly on programming projects and I am open to
 - [LinkedIn](https://www.linkedin.com/in/ianmalobamwakha/)
 - [Twitter](https://twitter.com/malobaian)
 - [CodePen](https://codepen.io/ianmalobamwakha/pens/public)
-- [WhatsApp](https://wa.link/9swn5e)
-
   
 *Ian Maloba © All rights reserved 2024.*
 
