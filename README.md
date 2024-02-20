@@ -6,10 +6,10 @@ I am a highly motivated individual, with a keen eye for detail, always striving 
 - Web development
 
 
-### 💞️ I am looking to collaborate on:
+### 👀 I am looking to collaborate on:
 I am looking forward to working jointly on programming projects and I am open to opportunities.
 
-### 📫 Contact me:
+### 👀 Contact me:
 - [LinkedIn](https://www.linkedin.com/in/ianmalobamwakha/)
 - [Portfolio](http://www.ianmaloba.com/)
 - [Twitter](https://twitter.com/malobaian)
