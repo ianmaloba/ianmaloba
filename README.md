@@ -7,7 +7,7 @@ I am a highly motivated individual, with a keen eye for detail, always striving 
 
 
 ### 👀 I am looking to collaborate on:
-I am looking forward to working jointly on programming projects and I am open to opportunities.
+I am looking forward to working jointly on programming projects and I'm open to opportunities.
 
 ### 👀 Contact me:
 - [LinkedIn](https://www.linkedin.com/in/ianmalobamwakha/)
