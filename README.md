@@ -9,8 +9,8 @@ I am a highly motivated individual, with a keen eye for detail, always striving 
 I am looking forward to working jointly on programming projects and I'm open to opportunities.
 
 ### 👀 Contact:
-- [LinkedIn](https://www.linkedin.com/in/ianmalobamwakha/)
 - [Portfolio](http://www.ianmaloba.com/)
+- [LinkedIn](https://www.linkedin.com/in/ianmalobamwakha/)
 - [Twitter](https://twitter.com/malobaian)
 - [CodePen](https://codepen.io/ianmalobamwakha/pens/public)
   
