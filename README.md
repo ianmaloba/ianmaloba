@@ -5,6 +5,10 @@ I am a highly motivated individual, with a keen eye for detail, always striving 
 - Software Development
 - Web development
 
+### 👀 Latest Projects:
+- [AI FINDER](https://aifinderguru.com/)
+- [MAXXIMAL](https://github.com/IanMalobaMwakha/SLACK)
+
 ### 👀 I am looking to collaborate on:
 I am looking forward to working jointly on programming projects and I'm open to opportunities.
 
