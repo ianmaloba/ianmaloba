@@ -1,4 +1,4 @@
-# Hello ![Hello](https://github.com/ianmalobamwakha/IanMalobaMwakha/assets/127621186/00518ce9-89a3-4b6e-bdce-784d283c5f73) I'm Ian Maloba
+# Hello ![Hello](https://github.com/ianmalobamwakha/IanMalobaMwakha/assets/127621186/00518ce9-89a3-4b6e-bdce-784d283c5f73 | width=50) I'm Ian Maloba
 I am a highly motivated individual, with a keen eye for detail, always striving to optimize my code and learn more.
 
 ### 👀 I am interested in:
