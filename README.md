@@ -7,8 +7,6 @@
 
 ### 🧐 My Stats:
 <a href="https://github.com/IanMalobaMwakha"><img src="https://raw.githubusercontent.com/IanMalobaMwakha/Thickduck/master/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details"></a>
-<a href="https://github.com/IanMalobaMwakha"><img src="https://raw.githubusercontent.com/IanMalobaMwakha/Thickduck/master/profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos Per Language"></a>
-<a href="https://github.com/IanMalobaMwakha"><img src="https://raw.githubusercontent.com/IanMalobaMwakha/Thickduck/master/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most Commit Language"></a>
 
 ### 🤓 Latest Projects:
 - [AI FINDER](https://aifinderguru.com/)
