@@ -9,7 +9,7 @@
 <a href="https://github.com/IanMalobaMwakha"><img src="https://raw.githubusercontent.com/IanMalobaMwakha/Thickduck/master/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details"></a>
 
 ### 🤓 Latest Projects:
-- [AI FINDER](https://aifinderguru.com/)
+- [AI FINDER GURU](https://aifinderguru.com/)
 - [MAXXIMAL](https://github.com/IanMalobaMwakha/SLACK)
 
 ### 🙋‍♂️ Contact:
