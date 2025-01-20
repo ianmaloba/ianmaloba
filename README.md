@@ -24,7 +24,7 @@ Here are some of my noteworthy projects:
 4. **[Graphing Tool](https://3dgrapher.ianmaloba.com/):**
    - A graphing tool for visualizing and exploring mathematical functions in an interactive three-dimensional space.
 
-- More: [Projects](https://ianmaloba.com/#Projects)
+- View More: [Projects](https://ianmaloba.com/#Projects)
 
 
 ## 💼 My Portfolio:
@@ -42,7 +42,7 @@ Let’s collaborate and share ideas! Reach out to me on these platforms:
 
 ## 📜 Quote:
 
->_“The code you write makes you a programmer. The code you delete makes you a good one. The code you don’t have to write makes you a great one.”_ — Johannes Kepler
+>_“The code you write makes you a programmer. The code you delete makes you a good one. The code you don’t have to write makes you a great one.”_ — Mario Fusco
 
 ---
 
