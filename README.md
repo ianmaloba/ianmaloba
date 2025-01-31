@@ -18,7 +18,7 @@ Here are some of my noteworthy projects:
 2. **[Interactive 3D Shape Morpher](https://codepen.io/ianmaloba/full/raBKXwb):**
    - Users can transform and animate geometric primitives while customizing their materials, colors, and rotation patterns in real-time.
 
-3. **[Maximal](https://maximal.ianmaloba.com/):**
+3. **[Maxximal](https://maxximal.ianmaloba.com/):**
    - A real time multi-client video conferencing web app.
 
 4. **[Graphing Tool](https://3dgrapher.ianmaloba.com/):**
