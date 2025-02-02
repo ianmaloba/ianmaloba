@@ -18,8 +18,8 @@ Here are some of my noteworthy projects:
 2. **[Interactive 3D Shape Morpher](https://codepen.io/ianmaloba/full/raBKXwb):**
    - Users can transform and animate geometric primitives while customizing their materials, colors, and rotation patterns in real-time.
 
-3. **[Maxximal](https://maxximal.ianmaloba.com/):**
-   - A real time multi-client video conferencing web app.
+3. **[Real-Time Multi-Client Video Conferencing Web App](https://maxximal.ianmaloba.com/):**
+   - It leverages Django Channels, WebSockets, and WebRTC to implement signaling protocols and peer-to-peer connections.
 
 4. **[Graphing Tool](https://3dgrapher.ianmaloba.com/):**
    - A graphing tool for visualizing and exploring mathematical functions in an interactive three-dimensional space.
