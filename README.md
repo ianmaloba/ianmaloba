@@ -15,7 +15,7 @@ Here are some of my noteworthy projects:
 1. **[AI Finder Guru](https://aifinderguru.com/):**
    - A comprehensive AI tools directory to help you find the right tools for your needs.
 
-2. **[Interactive 3D Shape Morpher](https://codepen.io/ianmaloba/full/raBKXwb):**
+2. **[Interactive 3D Shape Morpher](https://3dshapemorpher.ianmaloba.com/):**
    - Users can transform and animate geometric primitives while customizing their materials, colors, and rotation patterns in real-time.
 
 3. **[Real-Time Multi-Client Video Conferencing Web App](https://maxximal.ianmaloba.com/):**
