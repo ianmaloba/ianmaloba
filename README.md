@@ -5,9 +5,6 @@ I am a `highly motivated individual`, with a keen eye for detail, always strivin
 
 ## 🧐 My GitHub Stats:
 ![Profile Details](https://raw.githubusercontent.com/ianmaloba/Thickduck/master/profile-summary-card-output/dracula/0-profile-details.svg)
-![Stats](https://raw.githubusercontent.com/ianmaloba/Thickduck/master/profile-summary-card-output/dracula/3-stats.svg)
-![Productive Time](https://raw.githubusercontent.com/ianmaloba/Thickduck/master/profile-summary-card-output/dracula/4-productive-time.svg)
-
 
 ## 🤓 Latest Projects:
 Here are some of my noteworthy projects:
@@ -15,30 +12,30 @@ Here are some of my noteworthy projects:
 1. **[AI Finder Guru](https://aifinderguru.com/):**
    - A comprehensive AI tools directory to help you find the right tools for your needs.
 
-2. **[Interactive 3D Shape Morpher](https://3dshapemorpher.ianmaloba.com/):**
+2. **[Graphing Tool](https://3dgrapher.ianmaloba.com/):**
+   - A graphing tool for visualizing and exploring mathematical functions in an interactive three-dimensional space.
+  
+3. **[Real-Time Multi-Client Video Conferencing Web App](https://video-chat.ianmaloba.com/):**
+   - It leverages Django Channels, WebSockets, and WebRTC to implement signaling protocols and peer-to-peer connections.
+     
+4. **[Interactive 3D Shape Morpher](https://3dshapemorpher.ianmaloba.com/):**
    - Users can transform and animate geometric primitives while customizing their materials, colors, and rotation patterns in real-time.
 
-3. **[Real-Time Multi-Client Video Conferencing Web App](https://maxximal.ianmaloba.com/):**
-   - It leverages Django Channels, WebSockets, and WebRTC to implement signaling protocols and peer-to-peer connections.
-
-4. **[Graphing Tool](https://3dgrapher.ianmaloba.com/):**
-   - A graphing tool for visualizing and exploring mathematical functions in an interactive three-dimensional space.
 
 - View More: [Projects](https://ianmaloba.com/#Projects)
 
 
 ## 💼 My Portfolio:
 Visit my portfolio:
-- [Portfolio Website](http://www.ianmaloba.com/)
+- [Portfolio Website](https://ianmaloba.com/)
 
 
 ## 🙋‍♂️ Connect with Me:
 Let’s collaborate and share ideas! Reach out to me on these platforms:
 
+- [**Email**](mailto:contact@ianmaloba.com)
 - [**LinkedIn**](https://www.linkedin.com/in/ianmaloba/)
 - [**Twitter**](https://twitter.com/malobaian)
-- [**CodePen**](https://codepen.io/ianmaloba/pens/public)
-
 
 ## 📜 Quote:
 
