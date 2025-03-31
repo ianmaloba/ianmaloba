@@ -7,10 +7,10 @@ I am a `highly motivated individual`, with a keen eye for detail, always strivin
 ![Profile Details](https://raw.githubusercontent.com/ianmaloba/Thickduck/master/profile-summary-card-output/dracula/0-profile-details.svg)
 
 ## 🤓 Latest Projects:
-Here are some of my noteworthy projects:
+Here are some of my latest noteworthy projects:
 
 1. **[AI Finder Guru](https://aifinderguru.com/):**
-   - A comprehensive AI tools directory to help you find the right tools for your needs.
+   - A comprehensive AI tools directory featuring over 5,000 tools to help you easily find the right solution for your needs.
 
 2. **[Graphing Tool](https://3dgrapher.ianmaloba.com/):**
    - A graphing tool for visualizing and exploring mathematical functions in an interactive three-dimensional space.
@@ -22,12 +22,12 @@ Here are some of my noteworthy projects:
    - Users can transform and animate geometric primitives while customizing their materials, colors, and rotation patterns in real-time.
 
 
-- View More: [Projects](https://ianmaloba.com/#Projects)
+- [View More Projects](https://ianmaloba.com/#Projects)
 
 
 ## 💼 My Portfolio:
-Visit my portfolio:
-- [Portfolio Website](https://ianmaloba.com/)
+Visit my Portfolio Website:
+- [ianmaloba.com](https://ianmaloba.com/)
 
 
 ## 🙋‍♂️ Connect with Me:
@@ -44,4 +44,3 @@ Let’s collaborate and share ideas! Reach out to me on these platforms:
 ---
 
 Ian Maloba © All rights reserved.
-
