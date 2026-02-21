@@ -21,5 +21,5 @@ Let’s collaborate and share ideas! Reach out to me on:
 
 
 ## Quote
-> “The code you write makes you a programmer. The code you delete makes you a good one. The code you don’t have to write makes you a great one.” — Mario Fusco
+>_“The code you write makes you a programmer. The code you delete makes you a good one. The code you don’t have to write makes you a great one.”_ — Mario Fusco
 
